@@ -1,1 +1,13 @@
 Sai
+I am primarily interested in Algebraic topology, in particular in chromatic homotopy theory. 
+One of the fundamental problems of homotopy thoery is to study the homotopy groups of spheres. 
+Due to Serre, we know that these homotopy groups are more or less finite abelian groups.
+For finite abelian groups, we can localise and study them and we can put all this information together to complete the whole calculation.
+It turns out the compation of these localisatins is still very hard. 
+Later due to Rvaenel miller wilson, it was realised that the homotopy groups can be thought of as a module over a stack which has more points than just the integers.
+This is the called the moduli stack and it has all the primes, but over every prime there is a sequence pof ideals one for every height. The problem I am interested in , is understanding these finer localisations which are more amenable to understanding.
+The localisations at hieght are more or less well understood and I am inntersted in understanding the localisation at height 2
+Broadly there are two problems I am interested in
+Computational aspect
+
+Theoretical aspect
