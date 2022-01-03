@@ -8,6 +8,7 @@ Later due to Rvaenel miller wilson, it was realised that the homotopy groups can
 This is the called the moduli stack and it has all the primes, but over every prime there is a sequence pof ideals one for every height. The problem I am interested in , is understanding these finer localisations which are more amenable to understanding.
 The localisations at hieght are more or less well understood and I am inntersted in understanding the localisation at height 2
 Broadly there are two problems I am interested in
+In a project with undergrads, we are currently try to calculate the kernel and cokernel of a map defined on modular forms
 Computational aspect
 
-Theoretical aspect
+Theoretical aspect Another question I am intereted is is called Descent. 
